@@ -1,8 +1,8 @@
-# Configuration <a id="module-teamboards-configuration"></a>
+# Configuration <a id="module-teamdashboards-configuration"></a>
 
-## Module Configuration  <a id="module-teamboards-configuration"></a>
+## Module Configuration  <a id="module-teamdashboards-configuration"></a>
 
-### Create a Mapping  <a id="module-teamboards-configuration-mapping-create"></a>
+### Create a Mapping  <a id="module-teamdashboards-configuration-mapping-create"></a>
 ![mapping](img/create.png)
 
 
@@ -13,11 +13,11 @@
 | Priority             | **yes**  | Priority of the Dashboard in the menu |
 | Enabled               | no       | Enable or disable this entry                    |
 
-### List and update a Mapping  <a id="module-teamboards-configuration-mapping-list"></a>
+### List and update a Mapping  <a id="module-teamdashboards-configuration-mapping-list"></a>
 ![mapping](img/mappings.png)
 
 
-## Role Configuration  <a id="module-teamboards-configuration-role"></a>
+## Role Configuration  <a id="module-teamdashboards-configuration-role"></a>
 This module provides the following permissions:
 ![roles](img/roles.png)
 

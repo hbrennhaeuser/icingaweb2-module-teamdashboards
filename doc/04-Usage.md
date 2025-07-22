@@ -1,6 +1,6 @@
-# Usage <a id="module-teamboards-usage"></a>
+# Usage <a id="module-teamdashboards-usage"></a>
 
-## Module Usage  <a id="module-teamboards-usage-module"></a>
+## Module Usage  <a id="module-teamdashboards-usage-module"></a>
 
 ![usage](img/mappings.png)
 
