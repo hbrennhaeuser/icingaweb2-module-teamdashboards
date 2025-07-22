@@ -260,7 +260,7 @@ class Teamdashboard extends AbstractWidget
                         ),
                         'label'     => $pane->getTitle(),
                         'url'       => clone($url),
-                        'urlParams' => array($this->tabParam => $key)
+                        'urlParams' => array($this->tabParam => $key, 'user'=>$this->getUser()->getUsername())
                     )
                 );
             }
