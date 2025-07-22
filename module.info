@@ -1,5 +1,6 @@
 Name: teamdashboards
-Version: 1.0.0
+Version: 1.1.0
 
 Description: teamdashboards
  This module provides the ability to fetch other users dashboards without affecting your own.
+ Requires IcingaWeb2 >= 2.12.2
