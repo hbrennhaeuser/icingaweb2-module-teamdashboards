@@ -2,7 +2,7 @@
 
 ## Requirements <a id="module-teamboards-installation-requirements"></a>
 
-* Icinga Web 2 (&gt;= 2.11.4)
+* Icinga Web 2 (&gt;= 2.12.2)
 * PHP (&gt;= 7.3)
 
 ## Installation from .tar.gz <a id="module-teamboards-installation-manual"></a>
